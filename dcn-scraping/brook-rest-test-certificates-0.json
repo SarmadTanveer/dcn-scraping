@@ -1,0 +1,70 @@
+{
+    "length": 4,
+    "data": [
+        {
+            "Location": "Ontario, Canada",
+            "Address": "580 Dundas St., London",
+            "Project": "Completing Eifs Overcladding",
+            "Substantially Performed": "June 24, 2020",
+            "Date certificate signed:": "June 24, 2020",
+            "Name of Owner": "London & Middlesex Community Housing",
+            "Address of Owner": "c/o London & Middlesex Community Housing 5C5 - 1299 Oxford St. E. London, ON",
+            "Contractor": "Brook Restoration Ltd.",
+            "Address for service:": "11 Kelfield St. Etobicoke, ON",
+            "Consultant": "Edison Engineers Inc.",
+            "Consultant Address": "202 - 553 Southdale Rd. E. London, ON, N6E 1A2",
+            "Premises": "PLAN 260 PT LOT 1 PLAN 210PT LOTS 8,15 TO 19 & RP33R11658 PARTS 8 & 9",
+            "Publicaton Date": "2020-06-29",
+            "Certificate Number": "16E30DB9-91AB-478C-871A-4E7371B5EA3B"
+        },
+        {
+            "Location": "City of Toronto",
+            "Address": "135 St. Clair Ave West, Toronto, ON",
+            "Project": "Cooling Tower Catwalk Renewal",
+            "Substantially Performed": "June 5, 2020",
+            "Date certificate signed:": "May 12, 2020",
+            "Name of Owner": "Colliers Project Leaders",
+            "Address of Owner": "5255 Orbitor Drive, Suite 101, Mississauga, ON",
+            "Contractor": "Brook Restoration Limited",
+            "Address for service:": "11 Kelfield Street, Toronto, ON",
+            "Consultant": "TELSTORM Corp.",
+            "Consultant Address": "3100 Steeles Ave West, Vaughan, ON",
+            "Office to which claim for lien must be given to preserve lien:": "President & CEO, Infrastructure Ontario, 1 Dundas Street West, Suite 2000, Toronto, ON M5G 2L5",
+            "Publicaton Date": "2020-06-24",
+            "Certificate Number": "61E17038-3A3C-4524-BEFA-ABA8DDBB87E9"
+        },
+        {
+            "Location": "Toronto",
+            "Address": "1750 Bayview Avenue, Toronto",
+            "Project": "Garage & Site Repairs",
+            "Substantially Performed": "January 24, 2020",
+            "Date certificate signed:": "January 27, 2020",
+            "Name of Owner": "Metropolitan Toronto Condominium Corporation No. 1312",
+            "Address of Owner": "c/o Malvern Condominium Property Management, 9140 Leslie Street, Suite 205 Richmond Hill, ON L4B 0A9",
+            "Contractor": "Brook Restoration Ltd.",
+            "Address for service:": "11 Kelfield Street, Etobicoke, ON M9W 5A1",
+            "Consultant": "Brown & Beattie Ltd.",
+            "Consultant Address": "588 Edward Avenue, Unit 49, Richmond Hill, ON, L4C 9Y6",
+            "Premises": "In the City of Toronto being comprised of part of Lots 18,19,20,21 and 46 in Block R on Registered Plan 722Y designated as parts 6 to 15, both inclusive on Reference Plan 66R-18585 being part of Parcel 18-1 in the Register for Section A-722-Y, Toronto. Subject to an easement over part of the said Lot 46, Block R, Plan 722Y designated as Part 15 on Plan 66R-18585, as set out in Instrument No. 47294EN.",
+            "Office to which claim for lien must be given to preserve lien:": "Owner\u2019s Address for Service",
+            "Publicaton Date": "2020-06-24",
+            "Certificate Number": "D7E25B9D-387F-45B4-90DC-6809E99FF80C"
+        },
+        {
+            "Location": "Ottawa",
+            "Address": "530 Laurier Ave W, Ottawa, Ontario",
+            "Project": "Parking Garage Repairs (Phase 4A)",
+            "Substantially Performed": "June 12, 2020",
+            "Date certificate signed:": "June 17, 2020",
+            "Name of Owner": "Carleton Condominium Corporation No. 165",
+            "Address of Owner": "530 Laurier Ave W, Ottawa, Ontario",
+            "Contractor": "Brook Restoration Ltd.",
+            "Address for service:": "1520 Lagan Way, Ottawa, Ontario",
+            "Consultant": "Keller Engineering",
+            "Consultant Address": "885 Meadowlands Drive, Ottawa, Ontario",
+            "Premises": "530 Laurier Ave W, Ottawa, Ontario",
+            "Publicaton Date": "2020-06-19",
+            "Certificate Number": "3370ABD9-8338-454A-8463-A28D0E683634"
+        }
+    ]
+}
