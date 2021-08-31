@@ -1,9 +1,6 @@
 # DCN Scraping 
 A webscarping and data collection tool to gain some insight into the number and types of public projects awarded to construction companies around Toronto. 
 
-## Inspiration
-I have a civil engineer friend who, some time ago, was working as a project estimator at a well known construction company in Toronto. One day we get to talking and he tells me that his company has someone who spends hours browsing the Daily Commercial News website in search of job certificates awarded to their competitors. They then spend more time manually entering this data and creating spreadsheets. This irked me, as I have a firm belief that people should be performing meaningful work not mundane tasks. So I set out to create a tool that will reduce the time to collect this information from weeks to a couple of minutes. Thus the idea was born. 
-
 ## Design and Implementation 
 The tool itself is broken down into submodules that each perform a single overarching task. For simplicity these submodules are located in the collector package. The task can be broken down into four subtasks (submodules); searching, scraping, save as json, save as excel. 
 
