@@ -20,4 +20,4 @@ This module provides functions to write data and read data as json. This was don
 This module creates excel sheets for each individual company and also provides a function to append data to the desired sheet row by row. 
 
 ## Result
-While I didn't gain any monetary value from this, it was good exercise in web scraping and converting data to multiple formats as well as automating a very labour intensive task. Also had the added benefit of making my friend look good. You can check out the retrieved data in the data folder in this repo and as always code suggestions and crticisms are welcomed. 
+While I didn't gain any monetary value from this, it was good exercise in web scraping and converting data to multiple formats as well as automating a very labour intensive task. Also had the added benefit of making my friend look good.Code suggestions and crticisms are welcomed. 
